@@ -1,0 +1,8 @@
+#species	abbrev	raw_proteins_file	curated_proteins_file	gff_file	genome_file
+C. briggsae	Cbrig	c_briggsae.PRJNA10731.WS295.protein.fa	Cbrig_proteins.fasta	c_briggsae.PRJNA10731.WS295.annotations.WormBase.gff3	c_briggsae.PRJNA10731.WS295.genomic.fa
+C. remanei	Crema	c_remanei.PRJNA577507.WS295.protein.fa	Crema_proteins.fasta	c_remanei.PRJNA577507.WS295.annotations.gff3	c_remanei.PRJNA577507.WS295.genomic.fa
+C. brenneri	Cbren	c_brenneri.PRJNA20035.WS295.protein.fa	Cbren_proteins.fasta	c_brenneri.PRJNA20035.WS295.annotations.WormBase.gff3	c_brenneri.PRJNA20035.WS295.genomic.fa
+C. elegans	Celeg	c_elegans.PRJNA13758.WS295.protein.fa	Celeg_proteins.fasta	c_elegans.PRJNA13758.WS295.annotations.WormBase.gff3	c_elegans.PRJNA13758.WS295.genomic.fa
+C. inopinata	Cinop	c_inopinata.PRJDB5687.WS295.protein.fa	Cinop_proteins.fasta	c_inopinata.PRJDB5687.WS295.annotations.gff3	c_inopinata.PRJDB5687.WS295.genomic.fa
+C. becei	Cbece	c_becei.PRJEB28243.WS295.protein.fa	Cbece_proteins.fasta	c_becei.PRJEB28243.WS295.annotations.gff3	c_becei.PRJEB28243.WS295.genomic.fa
+C. waitukubuli	Cwait	c_waitukubuli.PRJEB12602.WS295.protein.fa	Cwait_proteins.fasta	c_waitukubuli.PRJEB12602.WS295.annotations.gff3	c_waitukubuli.PRJEB12602.WS295.genomic.fa
